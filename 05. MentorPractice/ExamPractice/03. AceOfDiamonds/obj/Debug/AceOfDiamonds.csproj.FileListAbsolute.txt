@@ -1,0 +1,6 @@
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe.config
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\AceOfDiamonds\bin\Debug\AceOfDiamonds.exe
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\AceOfDiamonds\bin\Debug\AceOfDiamonds.pdb
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\AceOfDiamonds\obj\Debug\AceOfDiamonds.exe
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\AceOfDiamonds\obj\Debug\AceOfDiamonds.pdb
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\AceOfDiamonds\obj\Debug\AceOfDiamonds.csprojResolveAssemblyReference.cache

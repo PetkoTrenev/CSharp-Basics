@@ -1,0 +1,6 @@
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\01. DailyCalorieIntake\bin\Debug\_01.DailyCalorieIntake.exe.config
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\01. DailyCalorieIntake\bin\Debug\_01.DailyCalorieIntake.exe
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\01. DailyCalorieIntake\bin\Debug\_01.DailyCalorieIntake.pdb
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\01. DailyCalorieIntake\obj\Debug\01. DailyCalorieIntake.csprojResolveAssemblyReference.cache
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\01. DailyCalorieIntake\obj\Debug\_01.DailyCalorieIntake.exe
+C:\C# Codding\05. MentorPractice\01. DailyCalorieIntake\01. DailyCalorieIntake\obj\Debug\_01.DailyCalorieIntake.pdb
