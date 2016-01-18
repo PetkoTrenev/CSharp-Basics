@@ -1,0 +1,5 @@
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\07. SumOfFiveIntegers\bin\Debug\_07.SumOfFiveIntegers.exe.config
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\07. SumOfFiveIntegers\bin\Debug\_07.SumOfFiveIntegers.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\07. SumOfFiveIntegers\bin\Debug\_07.SumOfFiveIntegers.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\07. SumOfFiveIntegers\obj\Debug\_07.SumOfFiveIntegers.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\07. SumOfFiveIntegers\obj\Debug\_07.SumOfFiveIntegers.pdb

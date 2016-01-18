@@ -1,0 +1,5 @@
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\08. SomeKindOfLoop\bin\Debug\_08.SomeKindOfLoop.exe.config
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\08. SomeKindOfLoop\bin\Debug\_08.SomeKindOfLoop.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\08. SomeKindOfLoop\bin\Debug\_08.SomeKindOfLoop.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\08. SomeKindOfLoop\obj\Debug\_08.SomeKindOfLoop.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\08. SomeKindOfLoop\obj\Debug\_08.SomeKindOfLoop.pdb

@@ -1,0 +1,18 @@
+CodeBlocks : An open-source cross-platform C/C++ IDE written in wxWidgets. Its pluggable architecture enables it to be extended easily by the use of external plugins (most of its functionality is provided by plugins). Supported compilers are GNU GCC, MS Visual C++ Free Toolkit 2003, Digital Mars, and Borland C++ Compiler 5.5.
+wxSmith - A wxWidgets RAD plugin for Code::Blocks currently under heavy development.
+
+Eclipse :  It contains a base workspace and an extensible plug-in system for customizing the environment. Eclipse is written mostly in Java and its primary use is for developing Java applications, but it may also be used to develop applications in other programming languages through the use of pluginsThe Eclipse software development kit (SDK), which includes the Java development tools, is meant for Java developers. Users can extend its abilities by installing plug-ins written for the Eclipse Platform, such as development toolkits for other programming languages, and can write and contribute their own plug-in modules.
+
+NetBeans : Is written in JAVA.The NetBeans Platform allows applications to be developed from a set of modular software components called modules. Applications based on the NetBeans Platform, including the NetBeans integrated development environment (IDE), can be extended by third party developersNetBeans is cross-platform and runs on Microsoft Windows, Mac OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+CodeLite : CodeLite is a free, open source, cross platform IDE for the C/C++ programming languages using the wxWidgets toolkit. To comply with CodeLite's open source spirit, the program itself is compiled and debugged using only free tools (MinGW and GDB) for Mac OS X, Windows, Linux and FreeBSD, though CodeLite can execute any third-party compiler or tool that has a command-line interface. CodeLite also supports PHP and JavaScript development (including Node.js support).
+
+MinGW  - (Minimalist GNU for Windows), formerly mingw32, is a free and open source software development environment for creating Microsoft Windows applications.
+
+It includes a port of the GNU Compiler Collection (GCC), GNU Binutils for Windows (assembler, linker, archive manager), a set of freely distributable Windows specific header files and static import libraries which enable the use of the Windows API, a Windows native build of the GNU Project's GNU Debugger, and miscellaneous utilities.
+
+MinGW does not rely on third-party C runtime dynamic-link library (DLL) files, and because the runtime libraries are not distributed using the GNU General Public License (GPL), it is not necessary to distribute the source code with the programs produced, unless a GPL library is used elsewhere in the program.[2]
+
+MinGW can be run either on the native Microsoft Windows platform, cross-hosted on GNU/Linux, or "cross-native" on Cygwin.
+
+An alternative called MinGW-w64 was created by a different author to include several new APIs and provide 64-bit support.

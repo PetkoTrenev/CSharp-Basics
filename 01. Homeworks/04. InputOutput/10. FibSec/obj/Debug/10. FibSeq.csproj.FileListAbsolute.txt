@@ -1,0 +1,3 @@
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\12. FibSec\bin\Debug\_12.FibSec.exe.config
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\12. FibSec\obj\Debug\_12.FibSec.exe
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\12. FibSec\obj\Debug\_12.FibSec.pdb

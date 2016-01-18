@@ -1,0 +1,6 @@
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe.config
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\05. FormattingNumbers\obj\Debug\_05.FormattingNumbers.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\05. FormattingNumbers\obj\Debug\05. FormattingNumbers.csprojResolveAssemblyReference.cache

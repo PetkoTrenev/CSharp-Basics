@@ -1,0 +1,6 @@
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe.config
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.pdb
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\14. PrintTheASCIITable\obj\Debug\14. PrintTheASCIITable.csprojResolveAssemblyReference.cache
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.pdb

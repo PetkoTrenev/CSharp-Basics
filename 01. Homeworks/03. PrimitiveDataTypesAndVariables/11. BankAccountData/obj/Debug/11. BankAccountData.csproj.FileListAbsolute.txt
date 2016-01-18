@@ -1,0 +1,6 @@
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe.config
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\11. BankAccountData\obj\Debug\11. BankAccountData.csprojResolveAssemblyReference.cache
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

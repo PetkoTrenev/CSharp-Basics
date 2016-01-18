@@ -1,0 +1,6 @@
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\02. DoubleOrFloat\bin\Debug\_02.DoubleOrFloat.exe.config
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\02. DoubleOrFloat\bin\Debug\_02.DoubleOrFloat.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\02. DoubleOrFloat\bin\Debug\_02.DoubleOrFloat.pdb
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\02. DoubleOrFloat\obj\Debug\02. DoubleOrFloat.csprojResolveAssemblyReference.cache
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\02. DoubleOrFloat\obj\Debug\_02.DoubleOrFloat.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\02. DoubleOrFloat\obj\Debug\_02.DoubleOrFloat.pdb

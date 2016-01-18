@@ -1,0 +1,5 @@
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\04. NumberComparer\bin\Debug\_04.NumberComparer.exe.config
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\04. NumberComparer\bin\Debug\_04.NumberComparer.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\04. NumberComparer\bin\Debug\_04.NumberComparer.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\04. NumberComparer\obj\Debug\_04.NumberComparer.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\04. NumberComparer\obj\Debug\_04.NumberComparer.pdb

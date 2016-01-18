@@ -1,0 +1,6 @@
+D:\C# Codding\Intro-Programming-Homework\09. SequenceNumbers\bin\Debug\_09.SequenceNumbers.exe.config
+D:\C# Codding\Intro-Programming-Homework\09. SequenceNumbers\obj\Debug\09. SequenceNumbers.csprojResolveAssemblyReference.cache
+D:\C# Codding\Intro-Programming-Homework\09. SequenceNumbers\bin\Debug\_09.SequenceNumbers.exe
+D:\C# Codding\Intro-Programming-Homework\09. SequenceNumbers\bin\Debug\_09.SequenceNumbers.pdb
+D:\C# Codding\Intro-Programming-Homework\09. SequenceNumbers\obj\Debug\_09.SequenceNumbers.exe
+D:\C# Codding\Intro-Programming-Homework\09. SequenceNumbers\obj\Debug\_09.SequenceNumbers.pdb

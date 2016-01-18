@@ -1,0 +1,11 @@
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.exe.config
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\obj\Debug\_01.SumOfThreeNumbers.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\obj\Debug\_01.SumOfThreeNumbers.pdb
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.exe.config
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\obj\Debug\_01.SumOfThreeNumbers.exe
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\obj\Debug\_01.SumOfThreeNumbers.pdb
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.exe
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\bin\Debug\_01.SumOfThreeNumbers.pdb
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\01. SumOfThreeNumbers\obj\Debug\01. SumOfThreeNumbers.csprojResolveAssemblyReference.cache

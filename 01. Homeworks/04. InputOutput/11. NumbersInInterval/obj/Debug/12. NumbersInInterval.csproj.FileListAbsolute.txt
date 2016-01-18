@@ -1,0 +1,1 @@
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\12. NumbersInInterval\bin\Debug\_12.NumbersInInterval.exe.config

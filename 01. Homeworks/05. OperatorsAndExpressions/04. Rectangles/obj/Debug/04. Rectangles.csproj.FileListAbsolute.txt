@@ -1,0 +1,5 @@
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\04. Rectangles\obj\Debug\_04.Rectangles.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\04. Rectangles\obj\Debug\_04.Rectangles.pdb

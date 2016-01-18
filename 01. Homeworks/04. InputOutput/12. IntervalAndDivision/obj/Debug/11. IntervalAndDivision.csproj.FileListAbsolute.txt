@@ -1,0 +1,3 @@
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\12. IntervalAndDivision\bin\Debug\_12.IntervalAndDivision.exe.config
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\12. IntervalAndDivision\obj\Debug\_12.IntervalAndDivision.exe
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\12. IntervalAndDivision\obj\Debug\_12.IntervalAndDivision.pdb

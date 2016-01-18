@@ -1,0 +1,5 @@
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb

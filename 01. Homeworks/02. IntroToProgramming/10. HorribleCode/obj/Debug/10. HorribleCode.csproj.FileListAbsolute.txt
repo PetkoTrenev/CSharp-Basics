@@ -1,0 +1,5 @@
+D:\C# Codding\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+D:\C# Codding\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe
+D:\C# Codding\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.pdb
+D:\C# Codding\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+D:\C# Codding\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb

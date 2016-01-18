@@ -1,0 +1,5 @@
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\04. UnicodeChar\bin\Debug\_04.UnicodeChar.exe.config
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\04. UnicodeChar\bin\Debug\_04.UnicodeChar.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\04. UnicodeChar\bin\Debug\_04.UnicodeChar.pdb
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\04. UnicodeChar\obj\Debug\_04.UnicodeChar.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\04. UnicodeChar\obj\Debug\_04.UnicodeChar.pdb

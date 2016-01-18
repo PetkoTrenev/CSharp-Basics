@@ -1,0 +1,8 @@
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\09. SumNnumbers\bin\Debug\_09.SumNnumbers.exe.config
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\09. SumNnumbers\bin\Debug\_09.SumNnumbers.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\09. SumNnumbers\bin\Debug\_09.SumNnumbers.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\09. SumNnumbers\obj\Debug\_09.SumNnumbers.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\09. SumNnumbers\obj\Debug\_09.SumNnumbers.pdb
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\09. SumNnumbers\bin\Debug\_09.SumNnumbers.exe.config
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\09. SumNnumbers\obj\Debug\_09.SumNnumbers.exe
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\09. SumNnumbers\obj\Debug\_09.SumNnumbers.pdb

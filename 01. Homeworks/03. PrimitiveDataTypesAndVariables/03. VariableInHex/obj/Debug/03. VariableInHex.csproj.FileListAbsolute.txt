@@ -1,0 +1,6 @@
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\03. VariableInHex\bin\Debug\_03.VariableInHex.exe.config
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\03. VariableInHex\bin\Debug\_03.VariableInHex.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\03. VariableInHex\bin\Debug\_03.VariableInHex.pdb
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\03. VariableInHex\obj\Debug\03. VariableInHex.csprojResolveAssemblyReference.cache
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\03. VariableInHex\obj\Debug\_03.VariableInHex.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\03. VariableInHex\obj\Debug\_03.VariableInHex.pdb

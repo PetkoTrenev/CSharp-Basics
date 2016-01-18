@@ -1,0 +1,6 @@
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\12. NullableValues\bin\Debug\_12.NullableValues.exe.config
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\12. NullableValues\obj\Debug\12. NullableValues.csprojResolveAssemblyReference.cache
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\12. NullableValues\bin\Debug\_12.NullableValues.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\12. NullableValues\bin\Debug\_12.NullableValues.pdb
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\12. NullableValues\obj\Debug\_12.NullableValues.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\12. NullableValues\obj\Debug\_12.NullableValues.pdb

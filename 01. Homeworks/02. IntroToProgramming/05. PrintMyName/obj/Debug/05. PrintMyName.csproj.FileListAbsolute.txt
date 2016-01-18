@@ -1,0 +1,6 @@
+D:\C# Codding\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+D:\C# Codding\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe
+D:\C# Codding\Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.pdb
+D:\C# Codding\Intro-Programming-Homework\05. PrintMyName\obj\Debug\05. PrintMyName.csprojResolveAssemblyReference.cache
+D:\C# Codding\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+D:\C# Codding\Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb

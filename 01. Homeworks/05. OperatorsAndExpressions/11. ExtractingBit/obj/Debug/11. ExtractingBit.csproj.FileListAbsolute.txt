@@ -1,0 +1,6 @@
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\11. ExtractingBit\bin\Debug\_11.ExtractingBit.exe.config
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\11. ExtractingBit\bin\Debug\_11.ExtractingBit.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\11. ExtractingBit\bin\Debug\_11.ExtractingBit.pdb
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\11. ExtractingBit\obj\Debug\11. ExtractingBit.csprojResolveAssemblyReference.cache
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\11. ExtractingBit\obj\Debug\_11.ExtractingBit.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\11. ExtractingBit\obj\Debug\_11.ExtractingBit.pdb

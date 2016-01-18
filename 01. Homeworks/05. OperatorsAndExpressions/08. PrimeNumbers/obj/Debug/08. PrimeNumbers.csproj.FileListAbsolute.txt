@@ -1,0 +1,5 @@
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\08. PrimeNumbers\bin\Debug\_08.PrimeNumbers.exe.config
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\08. PrimeNumbers\bin\Debug\_08.PrimeNumbers.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\08. PrimeNumbers\bin\Debug\_08.PrimeNumbers.pdb
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\08. PrimeNumbers\obj\Debug\_08.PrimeNumbers.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\08. PrimeNumbers\obj\Debug\_08.PrimeNumbers.pdb

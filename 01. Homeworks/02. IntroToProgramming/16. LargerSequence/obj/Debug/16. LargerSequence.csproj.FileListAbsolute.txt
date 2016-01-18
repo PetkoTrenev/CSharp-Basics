@@ -1,0 +1,8 @@
+D:\C# Codding\Intro-Programming-Homework\16. LargerSequence\bin\Debug\_16.LargerSequence.exe.config
+D:\C# Codding\Intro-Programming-Homework\16. LargerSequence\bin\Debug\_16.LargerSequence.exe
+D:\C# Codding\Intro-Programming-Homework\16. LargerSequence\bin\Debug\_16.LargerSequence.pdb
+D:\C# Codding\Intro-Programming-Homework\16. LargerSequence\obj\Debug\_16.LargerSequence.exe
+D:\C# Codding\Intro-Programming-Homework\16. LargerSequence\obj\Debug\_16.LargerSequence.pdb
+C:\C# Codding\01. Домашни\02. IntroToProgramming\Intro-Programming-Homework\16. LargerSequence\bin\Debug\_16.LargerSequence.exe.config
+C:\C# Codding\01. Домашни\02. IntroToProgramming\Intro-Programming-Homework\16. LargerSequence\obj\Debug\_16.LargerSequence.exe
+C:\C# Codding\01. Домашни\02. IntroToProgramming\Intro-Programming-Homework\16. LargerSequence\obj\Debug\_16.LargerSequence.pdb

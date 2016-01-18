@@ -1,0 +1,5 @@
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\03. CirclePerimeterArea\bin\Debug\_03.CirclePerimeterArea.exe.config
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\03. CirclePerimeterArea\bin\Debug\_03.CirclePerimeterArea.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\03. CirclePerimeterArea\bin\Debug\_03.CirclePerimeterArea.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\03. CirclePerimeterArea\obj\Debug\_03.CirclePerimeterArea.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\03. CirclePerimeterArea\obj\Debug\_03.CirclePerimeterArea.pdb

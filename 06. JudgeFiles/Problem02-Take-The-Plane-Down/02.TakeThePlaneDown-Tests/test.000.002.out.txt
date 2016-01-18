@@ -1,2 +1,0 @@
-You destroyed a plane at [10,4]
-You destroyed a plane at [11,4]

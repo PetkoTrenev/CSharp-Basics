@@ -1,0 +1,5 @@
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe.config
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.pdb
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.exe
+D:\C# Codding\03. PrimitiveDataTypesAndVariables\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.pdb

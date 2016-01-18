@@ -1,0 +1,5 @@
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

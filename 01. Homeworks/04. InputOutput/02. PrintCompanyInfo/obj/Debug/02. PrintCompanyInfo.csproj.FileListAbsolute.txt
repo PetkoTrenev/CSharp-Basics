@@ -1,0 +1,9 @@
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\bin\Debug\_02.PrintCompanyInfo.exe.config
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\bin\Debug\_02.PrintCompanyInfo.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\bin\Debug\_02.PrintCompanyInfo.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\obj\Debug\_02.PrintCompanyInfo.exe
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\obj\Debug\_02.PrintCompanyInfo.pdb
+D:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\obj\Debug\02. PrintCompanyInfo.csprojResolveAssemblyReference.cache
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\bin\Debug\_02.PrintCompanyInfo.exe.config
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\obj\Debug\_02.PrintCompanyInfo.exe
+C:\C# Codding\01. Домашни\04. InputOutput\InputOutput\02. PrintCompanyInfo\obj\Debug\_02.PrintCompanyInfo.pdb
