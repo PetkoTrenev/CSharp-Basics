@@ -1,0 +1,8 @@
+D:\C# Codding\NakovC#\DataTypes\13. DeclareVariablesReplace\bin\Debug\_13.DeclareVariablesReplace.exe.config
+D:\C# Codding\NakovC#\DataTypes\13. DeclareVariablesReplace\bin\Debug\_13.DeclareVariablesReplace.exe
+D:\C# Codding\NakovC#\DataTypes\13. DeclareVariablesReplace\bin\Debug\_13.DeclareVariablesReplace.pdb
+D:\C# Codding\NakovC#\DataTypes\13. DeclareVariablesReplace\obj\Debug\_13.DeclareVariablesReplace.exe
+D:\C# Codding\NakovC#\DataTypes\13. DeclareVariablesReplace\obj\Debug\_13.DeclareVariablesReplace.pdb
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\13. DeclareVariablesReplace\bin\Debug\_13.DeclareVariablesReplace.exe.config
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\13. DeclareVariablesReplace\obj\Debug\_13.DeclareVariablesReplace.exe
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\13. DeclareVariablesReplace\obj\Debug\_13.DeclareVariablesReplace.pdb

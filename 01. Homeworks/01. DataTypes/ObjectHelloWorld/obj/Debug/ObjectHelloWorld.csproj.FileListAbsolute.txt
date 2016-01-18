@@ -1,0 +1,5 @@
+D:\C# Codding\NakovC#\DataTypes\ObjectHelloWorld\bin\Debug\ObjectHelloWorld.exe.config
+D:\C# Codding\NakovC#\DataTypes\ObjectHelloWorld\bin\Debug\ObjectHelloWorld.exe
+D:\C# Codding\NakovC#\DataTypes\ObjectHelloWorld\bin\Debug\ObjectHelloWorld.pdb
+D:\C# Codding\NakovC#\DataTypes\ObjectHelloWorld\obj\Debug\ObjectHelloWorld.exe
+D:\C# Codding\NakovC#\DataTypes\ObjectHelloWorld\obj\Debug\ObjectHelloWorld.pdb

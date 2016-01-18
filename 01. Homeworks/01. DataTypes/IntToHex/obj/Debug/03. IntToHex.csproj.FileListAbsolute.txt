@@ -1,0 +1,6 @@
+D:\C# Codding\NakovC#\DataTypes\IntToHex\bin\Debug\IntToHex.exe.config
+D:\C# Codding\NakovC#\DataTypes\IntToHex\obj\Debug\IntToHex.exe
+D:\C# Codding\NakovC#\DataTypes\IntToHex\obj\Debug\IntToHex.pdb
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\IntToHex\bin\Debug\IntToHex.exe.config
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\IntToHex\obj\Debug\IntToHex.exe
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\IntToHex\obj\Debug\IntToHex.pdb

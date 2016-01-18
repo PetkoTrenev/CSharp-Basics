@@ -1,0 +1,5 @@
+D:\C# Codding\NakovC#\DataTypes\ComparinngDoubles\bin\Debug\ComparinngDoubles.exe.config
+D:\C# Codding\NakovC#\DataTypes\ComparinngDoubles\bin\Debug\ComparinngDoubles.exe
+D:\C# Codding\NakovC#\DataTypes\ComparinngDoubles\bin\Debug\ComparinngDoubles.pdb
+D:\C# Codding\NakovC#\DataTypes\ComparinngDoubles\obj\Debug\ComparinngDoubles.exe
+D:\C# Codding\NakovC#\DataTypes\ComparinngDoubles\obj\Debug\ComparinngDoubles.pdb

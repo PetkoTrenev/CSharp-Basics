@@ -1,0 +1,8 @@
+D:\C# Codding\NakovC#\DataTypes\isosceles triangle\bin\Debug\isosceles triangle.exe.config
+D:\C# Codding\NakovC#\DataTypes\isosceles triangle\bin\Debug\isosceles triangle.exe
+D:\C# Codding\NakovC#\DataTypes\isosceles triangle\bin\Debug\isosceles triangle.pdb
+D:\C# Codding\NakovC#\DataTypes\isosceles triangle\obj\Debug\isosceles triangle.exe
+D:\C# Codding\NakovC#\DataTypes\isosceles triangle\obj\Debug\isosceles triangle.pdb
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\isosceles triangle\bin\Debug\isosceles triangle.exe.config
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\isosceles triangle\obj\Debug\isosceles triangle.exe
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\isosceles triangle\obj\Debug\isosceles triangle.pdb

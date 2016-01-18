@@ -1,0 +1,8 @@
+D:\C# Codding\NakovC#\DataTypes\TheHeartProgram\bin\Debug\TheHeartProgram.exe.config
+D:\C# Codding\NakovC#\DataTypes\TheHeartProgram\bin\Debug\TheHeartProgram.exe
+D:\C# Codding\NakovC#\DataTypes\TheHeartProgram\bin\Debug\TheHeartProgram.pdb
+D:\C# Codding\NakovC#\DataTypes\TheHeartProgram\obj\Debug\TheHeartProgram.exe
+D:\C# Codding\NakovC#\DataTypes\TheHeartProgram\obj\Debug\TheHeartProgram.pdb
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\TheHeartProgram\bin\Debug\TheHeartProgram.exe.config
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\TheHeartProgram\obj\Debug\TheHeartProgram.exe
+C:\C# Codding\03. PracticeC#\NakovC#\DataTypes\TheHeartProgram\obj\Debug\TheHeartProgram.pdb

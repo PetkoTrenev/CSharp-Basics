@@ -1,0 +1,5 @@
+D:\C# Codding\NakovC#\DataTypes\CharToHex\bin\Debug\CharToHex.exe.config
+D:\C# Codding\NakovC#\DataTypes\CharToHex\bin\Debug\CharToHex.exe
+D:\C# Codding\NakovC#\DataTypes\CharToHex\bin\Debug\CharToHex.pdb
+D:\C# Codding\NakovC#\DataTypes\CharToHex\obj\Debug\CharToHex.exe
+D:\C# Codding\NakovC#\DataTypes\CharToHex\obj\Debug\CharToHex.pdb

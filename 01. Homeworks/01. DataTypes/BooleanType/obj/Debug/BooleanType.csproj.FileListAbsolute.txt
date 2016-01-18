@@ -1,0 +1,5 @@
+D:\C# Codding\NakovC#\DataTypes\BooleanType\bin\Debug\BooleanType.exe.config
+D:\C# Codding\NakovC#\DataTypes\BooleanType\bin\Debug\BooleanType.exe
+D:\C# Codding\NakovC#\DataTypes\BooleanType\bin\Debug\BooleanType.pdb
+D:\C# Codding\NakovC#\DataTypes\BooleanType\obj\Debug\BooleanType.exe
+D:\C# Codding\NakovC#\DataTypes\BooleanType\obj\Debug\BooleanType.pdb
