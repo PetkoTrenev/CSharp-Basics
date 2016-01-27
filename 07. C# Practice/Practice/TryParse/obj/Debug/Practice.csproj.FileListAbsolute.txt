@@ -1,0 +1,6 @@
+C:\C# Codding\07. C# Practice\Practice\Practice\bin\Debug\Practice.exe.config
+C:\C# Codding\07. C# Practice\Practice\Practice\bin\Debug\Practice.exe
+C:\C# Codding\07. C# Practice\Practice\Practice\bin\Debug\Practice.pdb
+C:\C# Codding\07. C# Practice\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\C# Codding\07. C# Practice\Practice\Practice\obj\Debug\Practice.exe
+C:\C# Codding\07. C# Practice\Practice\Practice\obj\Debug\Practice.pdb

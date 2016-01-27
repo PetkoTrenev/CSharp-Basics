@@ -1,0 +1,5 @@
+D:\C# Codding\CodeGasm\SuperCoolApplication\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+D:\C# Codding\CodeGasm\SuperCoolApplication\Magic8Ball\bin\Debug\Magic8Ball.exe
+D:\C# Codding\CodeGasm\SuperCoolApplication\Magic8Ball\bin\Debug\Magic8Ball.pdb
+D:\C# Codding\CodeGasm\SuperCoolApplication\Magic8Ball\obj\Debug\Magic8Ball.exe
+D:\C# Codding\CodeGasm\SuperCoolApplication\Magic8Ball\obj\Debug\Magic8Ball.pdb

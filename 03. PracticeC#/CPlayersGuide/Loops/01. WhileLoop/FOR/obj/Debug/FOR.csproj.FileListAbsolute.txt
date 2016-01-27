@@ -1,0 +1,5 @@
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\FOR\bin\Debug\FOR.exe.config
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\FOR\bin\Debug\FOR.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\FOR\bin\Debug\FOR.pdb
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\FOR\obj\Debug\FOR.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\FOR\obj\Debug\FOR.pdb

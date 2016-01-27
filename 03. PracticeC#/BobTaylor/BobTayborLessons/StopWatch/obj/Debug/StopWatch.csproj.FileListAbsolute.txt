@@ -1,0 +1,6 @@
+D:\C# Codding\PracticeC#\Decisions\StopWatch\bin\Debug\StopWatch.exe.config
+D:\C# Codding\PracticeC#\Decisions\StopWatch\bin\Debug\StopWatch.exe
+D:\C# Codding\PracticeC#\Decisions\StopWatch\bin\Debug\StopWatch.pdb
+D:\C# Codding\PracticeC#\Decisions\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\Decisions\StopWatch\obj\Debug\StopWatch.exe
+D:\C# Codding\PracticeC#\Decisions\StopWatch\obj\Debug\StopWatch.pdb

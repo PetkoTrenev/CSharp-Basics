@@ -1,0 +1,9 @@
+D:\C# Codding\PracticeC#\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\bin\Debug\UnderstandingAndCreatingClasses.exe.config
+D:\C# Codding\PracticeC#\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\bin\Debug\UnderstandingAndCreatingClasses.exe
+D:\C# Codding\PracticeC#\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\bin\Debug\UnderstandingAndCreatingClasses.pdb
+D:\C# Codding\PracticeC#\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\obj\Debug\UnderstandingAndCreatingClasses.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\obj\Debug\UnderstandingAndCreatingClasses.exe
+D:\C# Codding\PracticeC#\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\obj\Debug\UnderstandingAndCreatingClasses.pdb
+C:\C# Codding\03. PracticeC#\BobTaylor\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\bin\Debug\UnderstandingAndCreatingClasses.exe.config
+C:\C# Codding\03. PracticeC#\BobTaylor\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\obj\Debug\UnderstandingAndCreatingClasses.exe
+C:\C# Codding\03. PracticeC#\BobTaylor\UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses\obj\Debug\UnderstandingAndCreatingClasses.pdb

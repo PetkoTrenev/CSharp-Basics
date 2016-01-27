@@ -1,0 +1,5 @@
+D:\C# Codding\PracticeC#\Decisions\BooleanTypes\bin\Debug\BooleanTypes.exe.config
+D:\C# Codding\PracticeC#\Decisions\BooleanTypes\bin\Debug\BooleanTypes.exe
+D:\C# Codding\PracticeC#\Decisions\BooleanTypes\bin\Debug\BooleanTypes.pdb
+D:\C# Codding\PracticeC#\Decisions\BooleanTypes\obj\Debug\BooleanTypes.exe
+D:\C# Codding\PracticeC#\Decisions\BooleanTypes\obj\Debug\BooleanTypes.pdb

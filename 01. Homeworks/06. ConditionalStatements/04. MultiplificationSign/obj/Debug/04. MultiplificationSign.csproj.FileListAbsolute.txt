@@ -1,0 +1,1 @@
+C:\C# Codding\01. Homeworks\06. ConditionalStatements\04. MultiplificationSign\bin\Debug\_04.MultiplificationSign.exe.config

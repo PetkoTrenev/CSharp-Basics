@@ -1,0 +1,6 @@
+D:\C# Codding\PracticeC#\CCource\ConstantsEnums\bin\Debug\ConstantsEnums.exe.config
+D:\C# Codding\PracticeC#\CCource\ConstantsEnums\bin\Debug\ConstantsEnums.exe
+D:\C# Codding\PracticeC#\CCource\ConstantsEnums\bin\Debug\ConstantsEnums.pdb
+D:\C# Codding\PracticeC#\CCource\ConstantsEnums\obj\Debug\03. ConstantsEnums.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\CCource\ConstantsEnums\obj\Debug\ConstantsEnums.exe
+D:\C# Codding\PracticeC#\CCource\ConstantsEnums\obj\Debug\ConstantsEnums.pdb

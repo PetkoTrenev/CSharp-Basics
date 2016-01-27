@@ -1,0 +1,3 @@
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\ConstantsEnums\bin\Debug\ConstantsEnums.exe.config
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\ConstantsEnums\obj\Debug\ConstantsEnums.exe
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\ConstantsEnums\obj\Debug\ConstantsEnums.pdb

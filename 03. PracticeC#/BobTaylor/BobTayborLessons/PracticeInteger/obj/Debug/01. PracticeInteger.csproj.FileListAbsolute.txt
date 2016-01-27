@@ -1,0 +1,3 @@
+D:\C# Codding\PracticeC#\Decisions\PracticeInteger\bin\Debug\PracticeInteger.exe.config
+D:\C# Codding\PracticeC#\Decisions\PracticeInteger\obj\Debug\PracticeInteger.exe
+D:\C# Codding\PracticeC#\Decisions\PracticeInteger\obj\Debug\PracticeInteger.pdb

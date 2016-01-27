@@ -1,0 +1,5 @@
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\02. PrintingTriangle\bin\Debug\_02.PrintingTriangle.exe.config
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\02. PrintingTriangle\bin\Debug\_02.PrintingTriangle.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\02. PrintingTriangle\bin\Debug\_02.PrintingTriangle.pdb
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\02. PrintingTriangle\obj\Debug\_02.PrintingTriangle.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\02. PrintingTriangle\obj\Debug\_02.PrintingTriangle.pdb

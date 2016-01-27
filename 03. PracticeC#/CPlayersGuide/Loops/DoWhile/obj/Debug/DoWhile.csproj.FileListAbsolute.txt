@@ -1,0 +1,5 @@
+C:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\DoWhile\bin\Debug\DoWhile.exe.config
+C:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\DoWhile\bin\Debug\DoWhile.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\DoWhile\bin\Debug\DoWhile.pdb
+C:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\DoWhile\obj\Debug\DoWhile.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\DoWhile\obj\Debug\DoWhile.pdb

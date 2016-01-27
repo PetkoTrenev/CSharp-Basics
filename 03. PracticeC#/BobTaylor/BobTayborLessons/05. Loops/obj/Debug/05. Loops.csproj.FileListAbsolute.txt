@@ -1,0 +1,8 @@
+D:\C# Codding\PracticeC#\CCource\05. Loops\bin\Debug\_05.Loops.exe.config
+D:\C# Codding\PracticeC#\CCource\05. Loops\bin\Debug\_05.Loops.exe
+D:\C# Codding\PracticeC#\CCource\05. Loops\bin\Debug\_05.Loops.pdb
+D:\C# Codding\PracticeC#\CCource\05. Loops\obj\Debug\_05.Loops.exe
+D:\C# Codding\PracticeC#\CCource\05. Loops\obj\Debug\_05.Loops.pdb
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\05. Loops\bin\Debug\_05.Loops.exe.config
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\05. Loops\obj\Debug\_05.Loops.exe
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\05. Loops\obj\Debug\_05.Loops.pdb

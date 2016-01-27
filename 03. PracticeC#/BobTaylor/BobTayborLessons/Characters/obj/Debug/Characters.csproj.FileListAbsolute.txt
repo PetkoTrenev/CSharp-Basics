@@ -1,0 +1,5 @@
+D:\C# Codding\PracticeC#\Decisions\Characters\bin\Debug\Characters.exe.config
+D:\C# Codding\PracticeC#\Decisions\Characters\bin\Debug\Characters.exe
+D:\C# Codding\PracticeC#\Decisions\Characters\bin\Debug\Characters.pdb
+D:\C# Codding\PracticeC#\Decisions\Characters\obj\Debug\Characters.exe
+D:\C# Codding\PracticeC#\Decisions\Characters\obj\Debug\Characters.pdb

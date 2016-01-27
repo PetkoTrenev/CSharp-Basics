@@ -1,0 +1,5 @@
+D:\C# Codding\PracticeC#\Decisions\Strings\bin\Debug\Strings.exe.config
+D:\C# Codding\PracticeC#\Decisions\Strings\bin\Debug\Strings.exe
+D:\C# Codding\PracticeC#\Decisions\Strings\bin\Debug\Strings.pdb
+D:\C# Codding\PracticeC#\Decisions\Strings\obj\Debug\Strings.exe
+D:\C# Codding\PracticeC#\Decisions\Strings\obj\Debug\Strings.pdb

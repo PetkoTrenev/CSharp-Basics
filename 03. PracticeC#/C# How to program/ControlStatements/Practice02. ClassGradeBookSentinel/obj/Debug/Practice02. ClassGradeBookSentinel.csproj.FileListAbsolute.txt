@@ -1,0 +1,5 @@
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice02. ClassGradeBookSentinel\bin\Debug\Practice02.ClassGradeBookSentinel.exe.config
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice02. ClassGradeBookSentinel\bin\Debug\Practice02.ClassGradeBookSentinel.exe
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice02. ClassGradeBookSentinel\bin\Debug\Practice02.ClassGradeBookSentinel.pdb
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice02. ClassGradeBookSentinel\obj\Debug\Practice02.ClassGradeBookSentinel.exe
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice02. ClassGradeBookSentinel\obj\Debug\Practice02.ClassGradeBookSentinel.pdb

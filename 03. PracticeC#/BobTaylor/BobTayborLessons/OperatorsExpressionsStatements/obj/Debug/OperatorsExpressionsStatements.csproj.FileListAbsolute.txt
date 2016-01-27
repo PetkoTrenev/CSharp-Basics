@@ -1,0 +1,6 @@
+D:\C# Codding\PracticeC#\Decisions\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe.config
+D:\C# Codding\PracticeC#\Decisions\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe
+D:\C# Codding\PracticeC#\Decisions\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.pdb
+D:\C# Codding\PracticeC#\Decisions\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\Decisions\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.exe
+D:\C# Codding\PracticeC#\Decisions\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.pdb

@@ -1,0 +1,6 @@
+C:\C# Codding\07. C# Practice\ConditionalStatements\10. DigitAsWord\bin\Debug\_10.DigitAsWord.exe.config
+C:\C# Codding\07. C# Practice\ConditionalStatements\10. DigitAsWord\bin\Debug\_10.DigitAsWord.exe
+C:\C# Codding\07. C# Practice\ConditionalStatements\10. DigitAsWord\bin\Debug\_10.DigitAsWord.pdb
+C:\C# Codding\07. C# Practice\ConditionalStatements\10. DigitAsWord\obj\Debug\_10.DigitAsWord.exe
+C:\C# Codding\07. C# Practice\ConditionalStatements\10. DigitAsWord\obj\Debug\_10.DigitAsWord.pdb
+C:\C# Codding\07. C# Practice\ConditionalStatements\10. DigitAsWord\obj\Debug\10. DigitAsWord.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\C# Codding\07. C# Practice\ConditionalStatements\11. Play-with-Int-Double-String\bin\Debug\_11.Play_with_Int_Double_String.exe.config
+C:\C# Codding\07. C# Practice\ConditionalStatements\11. Play-with-Int-Double-String\bin\Debug\_11.Play_with_Int_Double_String.exe
+C:\C# Codding\07. C# Practice\ConditionalStatements\11. Play-with-Int-Double-String\bin\Debug\_11.Play_with_Int_Double_String.pdb
+C:\C# Codding\07. C# Practice\ConditionalStatements\11. Play-with-Int-Double-String\obj\Debug\_11.Play_with_Int_Double_String.exe
+C:\C# Codding\07. C# Practice\ConditionalStatements\11. Play-with-Int-Double-String\obj\Debug\_11.Play_with_Int_Double_String.pdb
+C:\C# Codding\07. C# Practice\ConditionalStatements\11. Play-with-Int-Double-String\obj\Debug\11. Play-with-Int-Double-String.csprojResolveAssemblyReference.cache

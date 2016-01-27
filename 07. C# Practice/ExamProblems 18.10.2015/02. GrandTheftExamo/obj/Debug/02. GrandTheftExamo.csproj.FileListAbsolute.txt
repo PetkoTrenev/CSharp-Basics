@@ -1,0 +1,5 @@
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\02. GrandTheftExamo\bin\Debug\_02.GrandTheftExamo.exe.config
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\02. GrandTheftExamo\bin\Debug\_02.GrandTheftExamo.exe
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\02. GrandTheftExamo\bin\Debug\_02.GrandTheftExamo.pdb
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\02. GrandTheftExamo\obj\Debug\_02.GrandTheftExamo.exe
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\02. GrandTheftExamo\obj\Debug\_02.GrandTheftExamo.pdb

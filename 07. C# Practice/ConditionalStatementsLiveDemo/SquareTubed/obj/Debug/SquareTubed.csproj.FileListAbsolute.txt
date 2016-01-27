@@ -1,0 +1,6 @@
+C:\C# Codding\07. C# Practice\ConditionalStatementsLiveDemo\SquareTubed\bin\Debug\SquareTubed.exe.config
+C:\C# Codding\07. C# Practice\ConditionalStatementsLiveDemo\SquareTubed\bin\Debug\SquareTubed.exe
+C:\C# Codding\07. C# Practice\ConditionalStatementsLiveDemo\SquareTubed\bin\Debug\SquareTubed.pdb
+C:\C# Codding\07. C# Practice\ConditionalStatementsLiveDemo\SquareTubed\obj\Debug\SquareTubed.csprojResolveAssemblyReference.cache
+C:\C# Codding\07. C# Practice\ConditionalStatementsLiveDemo\SquareTubed\obj\Debug\SquareTubed.exe
+C:\C# Codding\07. C# Practice\ConditionalStatementsLiveDemo\SquareTubed\obj\Debug\SquareTubed.pdb

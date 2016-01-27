@@ -1,0 +1,6 @@
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\03. CPUmemoryMonitor\bin\Debug\_03.CPUmemoryMonitor.exe.config
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\03. CPUmemoryMonitor\bin\Debug\_03.CPUmemoryMonitor.exe
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\03. CPUmemoryMonitor\bin\Debug\_03.CPUmemoryMonitor.pdb
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\03. CPUmemoryMonitor\obj\Debug\03. CPUmemoryMonitor.csprojResolveAssemblyReference.cache
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\03. CPUmemoryMonitor\obj\Debug\_03.CPUmemoryMonitor.exe
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\03. CPUmemoryMonitor\obj\Debug\_03.CPUmemoryMonitor.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingAndCreatingClasses", "UnderstandingAndCreatingClasses\UnderstandingAndCreatingClasses.csproj", "{07F32A21-8297-4B32-9E80-AC15494E1FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifeTime", "ObjectLifeTime\ObjectLifeTime.csproj", "{23885704-2A41-4ACE-8D1F-33B5CE6BA530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F32A21-8297-4B32-9E80-AC15494E1FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F32A21-8297-4B32-9E80-AC15494E1FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F32A21-8297-4B32-9E80-AC15494E1FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F32A21-8297-4B32-9E80-AC15494E1FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23885704-2A41-4ACE-8D1F-33B5CE6BA530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23885704-2A41-4ACE-8D1F-33B5CE6BA530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23885704-2A41-4ACE-8D1F-33B5CE6BA530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23885704-2A41-4ACE-8D1F-33B5CE6BA530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

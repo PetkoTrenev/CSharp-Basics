@@ -1,0 +1,6 @@
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\01. WhileLoop\bin\Debug\_01.WhileLoop.exe.config
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\01. WhileLoop\bin\Debug\_01.WhileLoop.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\01. WhileLoop\bin\Debug\_01.WhileLoop.pdb
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\01. WhileLoop\obj\Debug\01. WhileLoop.csprojResolveAssemblyReference.cache
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\01. WhileLoop\obj\Debug\_01.WhileLoop.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\01. WhileLoop\obj\Debug\_01.WhileLoop.pdb

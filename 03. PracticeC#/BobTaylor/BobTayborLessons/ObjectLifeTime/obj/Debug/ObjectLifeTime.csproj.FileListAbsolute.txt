@@ -1,0 +1,2 @@
+D:\C# Codding\PracticeC#\UnderstandingAndCreatingClasses\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+C:\C# Codding\03. PracticeC#\BobTaylor\UnderstandingAndCreatingClasses\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config

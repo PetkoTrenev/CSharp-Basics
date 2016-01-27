@@ -1,0 +1,6 @@
+C:\C# Codding\05. MentorPractice\Exam2\CakeTycoon\IllimunatiLock\bin\Debug\IllimunatiLock.exe.config
+C:\C# Codding\05. MentorPractice\Exam2\CakeTycoon\IllimunatiLock\bin\Debug\IllimunatiLock.exe
+C:\C# Codding\05. MentorPractice\Exam2\CakeTycoon\IllimunatiLock\bin\Debug\IllimunatiLock.pdb
+C:\C# Codding\05. MentorPractice\Exam2\CakeTycoon\IllimunatiLock\obj\Debug\IllimunatiLock.exe
+C:\C# Codding\05. MentorPractice\Exam2\CakeTycoon\IllimunatiLock\obj\Debug\IllimunatiLock.pdb
+C:\C# Codding\05. MentorPractice\Exam2\CakeTycoon\IllimunatiLock\obj\Debug\IllimunatiLock.csprojResolveAssemblyReference.cache

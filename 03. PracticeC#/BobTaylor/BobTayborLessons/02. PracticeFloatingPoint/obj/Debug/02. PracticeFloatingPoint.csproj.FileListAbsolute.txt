@@ -1,0 +1,5 @@
+D:\C# Codding\PracticeC#\Decisions\02. PracticeFloatingPoint\bin\Debug\_02.PracticeFloatingPoint.exe.config
+D:\C# Codding\PracticeC#\Decisions\02. PracticeFloatingPoint\bin\Debug\_02.PracticeFloatingPoint.exe
+D:\C# Codding\PracticeC#\Decisions\02. PracticeFloatingPoint\bin\Debug\_02.PracticeFloatingPoint.pdb
+D:\C# Codding\PracticeC#\Decisions\02. PracticeFloatingPoint\obj\Debug\_02.PracticeFloatingPoint.exe
+D:\C# Codding\PracticeC#\Decisions\02. PracticeFloatingPoint\obj\Debug\_02.PracticeFloatingPoint.pdb

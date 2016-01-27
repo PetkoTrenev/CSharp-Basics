@@ -1,0 +1,5 @@
+D:\C# Codding\PracticeC#\Decisions\03. AsignCharAndString\bin\Debug\_03.AsignCharAndString.exe.config
+D:\C# Codding\PracticeC#\Decisions\03. AsignCharAndString\bin\Debug\_03.AsignCharAndString.exe
+D:\C# Codding\PracticeC#\Decisions\03. AsignCharAndString\bin\Debug\_03.AsignCharAndString.pdb
+D:\C# Codding\PracticeC#\Decisions\03. AsignCharAndString\obj\Debug\_03.AsignCharAndString.exe
+D:\C# Codding\PracticeC#\Decisions\03. AsignCharAndString\obj\Debug\_03.AsignCharAndString.pdb

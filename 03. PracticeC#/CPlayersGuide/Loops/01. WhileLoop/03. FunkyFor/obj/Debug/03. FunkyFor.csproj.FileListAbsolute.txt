@@ -1,0 +1,5 @@
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\03. FunkyFor\bin\Debug\_03.FunkyFor.exe.config
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\03. FunkyFor\bin\Debug\_03.FunkyFor.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\03. FunkyFor\bin\Debug\_03.FunkyFor.pdb
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\03. FunkyFor\obj\Debug\_03.FunkyFor.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\03. FunkyFor\obj\Debug\_03.FunkyFor.pdb

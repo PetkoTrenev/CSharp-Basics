@@ -1,0 +1,6 @@
+C:\C# Codding\03. PracticeC#\Schildt C#\Operators\Operators\bin\Debug\Operators.exe.config
+C:\C# Codding\03. PracticeC#\Schildt C#\Operators\Operators\bin\Debug\Operators.exe
+C:\C# Codding\03. PracticeC#\Schildt C#\Operators\Operators\bin\Debug\Operators.pdb
+C:\C# Codding\03. PracticeC#\Schildt C#\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+C:\C# Codding\03. PracticeC#\Schildt C#\Operators\Operators\obj\Debug\Operators.exe
+C:\C# Codding\03. PracticeC#\Schildt C#\Operators\Operators\obj\Debug\Operators.pdb

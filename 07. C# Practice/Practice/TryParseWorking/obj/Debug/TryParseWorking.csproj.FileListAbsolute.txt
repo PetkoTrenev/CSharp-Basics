@@ -1,0 +1,6 @@
+C:\C# Codding\07. C# Practice\Practice\TryParseWorking\bin\Debug\TryParseWorking.exe.config
+C:\C# Codding\07. C# Practice\Practice\TryParseWorking\bin\Debug\TryParseWorking.exe
+C:\C# Codding\07. C# Practice\Practice\TryParseWorking\bin\Debug\TryParseWorking.pdb
+C:\C# Codding\07. C# Practice\Practice\TryParseWorking\obj\Debug\TryParseWorking.csprojResolveAssemblyReference.cache
+C:\C# Codding\07. C# Practice\Practice\TryParseWorking\obj\Debug\TryParseWorking.exe
+C:\C# Codding\07. C# Practice\Practice\TryParseWorking\obj\Debug\TryParseWorking.pdb

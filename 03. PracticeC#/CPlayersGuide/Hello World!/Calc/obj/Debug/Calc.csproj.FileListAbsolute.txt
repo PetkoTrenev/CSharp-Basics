@@ -1,0 +1,5 @@
+D:\C# Codding\PLayersGuide\Hello World!\Calc\bin\Debug\Calc.exe.config
+D:\C# Codding\PLayersGuide\Hello World!\Calc\bin\Debug\Calc.exe
+D:\C# Codding\PLayersGuide\Hello World!\Calc\bin\Debug\Calc.pdb
+D:\C# Codding\PLayersGuide\Hello World!\Calc\obj\Debug\Calc.exe
+D:\C# Codding\PLayersGuide\Hello World!\Calc\obj\Debug\Calc.pdb

@@ -1,0 +1,3 @@
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\UsingSwitch\bin\Debug\UsingSwitch.exe.config
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\UsingSwitch\obj\Debug\UsingSwitch.exe
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\UsingSwitch\obj\Debug\UsingSwitch.pdb

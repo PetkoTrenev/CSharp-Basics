@@ -1,0 +1,6 @@
+D:\C# Codding\PracticeC#\CCource\CCource\bin\Debug\CCource.exe.config
+D:\C# Codding\PracticeC#\CCource\CCource\bin\Debug\CCource.exe
+D:\C# Codding\PracticeC#\CCource\CCource\bin\Debug\CCource.pdb
+D:\C# Codding\PracticeC#\CCource\CCource\obj\Debug\CsharpCource.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\CCource\CCource\obj\Debug\CCource.exe
+D:\C# Codding\PracticeC#\CCource\CCource\obj\Debug\CCource.pdb

@@ -1,0 +1,6 @@
+D:\C# Codding\PLayersGuide\Hello World!\PassingGameLevel\bin\Debug\PassingGameLevel.exe.config
+D:\C# Codding\PLayersGuide\Hello World!\PassingGameLevel\bin\Debug\PassingGameLevel.exe
+D:\C# Codding\PLayersGuide\Hello World!\PassingGameLevel\bin\Debug\PassingGameLevel.pdb
+D:\C# Codding\PLayersGuide\Hello World!\PassingGameLevel\obj\Debug\PassingGameLevel.exe
+D:\C# Codding\PLayersGuide\Hello World!\PassingGameLevel\obj\Debug\PassingGameLevel.pdb
+D:\C# Codding\PLayersGuide\Hello World!\PassingGameLevel\obj\Debug\PassingGameLevel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\C# Codding\07. C# Practice\ConditionalStatements\01. BiggerNumber\bin\Debug\_01.BiggerNumber.exe.config

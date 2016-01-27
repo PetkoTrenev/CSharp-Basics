@@ -1,0 +1,3 @@
+C:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\Looping\bin\Debug\Looping.exe.config
+C:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\Looping\obj\Debug\Looping.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\Looping\obj\Debug\Looping.pdb

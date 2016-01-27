@@ -1,0 +1,6 @@
+D:\C# Codding\PLayersGuide\Hello World!\Math\bin\Debug\Math.exe.config
+D:\C# Codding\PLayersGuide\Hello World!\Math\bin\Debug\Math.exe
+D:\C# Codding\PLayersGuide\Hello World!\Math\bin\Debug\Math.pdb
+D:\C# Codding\PLayersGuide\Hello World!\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+D:\C# Codding\PLayersGuide\Hello World!\Math\obj\Debug\Math.exe
+D:\C# Codding\PLayersGuide\Hello World!\Math\obj\Debug\Math.pdb

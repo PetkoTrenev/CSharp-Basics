@@ -1,0 +1,6 @@
+D:\C# Codding\PracticeC#\Decisions\HelperMethdos\bin\Debug\HelperMethdos.exe.config
+D:\C# Codding\PracticeC#\Decisions\HelperMethdos\bin\Debug\HelperMethdos.exe
+D:\C# Codding\PracticeC#\Decisions\HelperMethdos\bin\Debug\HelperMethdos.pdb
+D:\C# Codding\PracticeC#\Decisions\HelperMethdos\obj\Debug\HelperMethdos.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\Decisions\HelperMethdos\obj\Debug\HelperMethdos.exe
+D:\C# Codding\PracticeC#\Decisions\HelperMethdos\obj\Debug\HelperMethdos.pdb

@@ -1,0 +1,6 @@
+D:\C# Codding\PracticeC#\CCource\CCource\bin\Debug\CCource.exe.config
+D:\C# Codding\PracticeC#\CCource\CCource\obj\Debug\CCource.exe
+D:\C# Codding\PracticeC#\CCource\CCource\obj\Debug\CCource.pdb
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\CCource\bin\Debug\CCource.exe.config
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\CCource\obj\Debug\CCource.exe
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\CCource\obj\Debug\CCource.pdb

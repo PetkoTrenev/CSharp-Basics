@@ -4,3 +4,9 @@ C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\15. ThreeBitSwitch\
 C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\15. ThreeBitSwitch\obj\Debug\15. ThreeBitSwitch.csprojResolveAssemblyReference.cache
 C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\15. ThreeBitSwitch\obj\Debug\_15.ThreeBitSwitch.exe
 C:\C# Codding\01. Домашни\05. OperatorsAndExpressions\15. ThreeBitSwitch\obj\Debug\_15.ThreeBitSwitch.pdb
+C:\C# Codding\01. Homeworks\05. OperatorsAndExpressions\15. ThreeBitSwitch\bin\Debug\_15.ThreeBitSwitch.exe.config
+C:\C# Codding\01. Homeworks\05. OperatorsAndExpressions\15. ThreeBitSwitch\obj\Debug\_15.ThreeBitSwitch.exe
+C:\C# Codding\01. Homeworks\05. OperatorsAndExpressions\15. ThreeBitSwitch\obj\Debug\_15.ThreeBitSwitch.pdb
+C:\C# Codding\01. Homeworks\05. OperatorsAndExpressions\15. ThreeBitSwitch\bin\Debug\_15.ThreeBitSwitch.exe
+C:\C# Codding\01. Homeworks\05. OperatorsAndExpressions\15. ThreeBitSwitch\bin\Debug\_15.ThreeBitSwitch.pdb
+C:\C# Codding\01. Homeworks\05. OperatorsAndExpressions\15. ThreeBitSwitch\obj\Debug\15. ThreeBitSwitch.csprojResolveAssemblyReference.cache

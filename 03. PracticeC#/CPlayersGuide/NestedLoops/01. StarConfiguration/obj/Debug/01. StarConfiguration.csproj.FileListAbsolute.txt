@@ -1,0 +1,6 @@
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\01. StarConfiguration\bin\Debug\_01.StarConfiguration.exe.config
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\01. StarConfiguration\bin\Debug\_01.StarConfiguration.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\01. StarConfiguration\bin\Debug\_01.StarConfiguration.pdb
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\01. StarConfiguration\obj\Debug\01. StarConfiguration.csprojResolveAssemblyReference.cache
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\01. StarConfiguration\obj\Debug\_01.StarConfiguration.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\01. StarConfiguration\obj\Debug\_01.StarConfiguration.pdb

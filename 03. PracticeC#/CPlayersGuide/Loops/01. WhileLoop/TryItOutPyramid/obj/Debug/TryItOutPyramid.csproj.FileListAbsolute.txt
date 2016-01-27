@@ -1,0 +1,5 @@
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\TryItOutPyramid\bin\Debug\TryItOutPyramid.exe.config
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\TryItOutPyramid\bin\Debug\TryItOutPyramid.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\TryItOutPyramid\bin\Debug\TryItOutPyramid.pdb
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\TryItOutPyramid\obj\Debug\TryItOutPyramid.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\TryItOutPyramid\obj\Debug\TryItOutPyramid.pdb

@@ -1,0 +1,3 @@
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\SuperCoolApplication\bin\Debug\SuperCoolApplication.exe.config
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\SuperCoolApplication\obj\Debug\SuperCoolApplication.exe
+D:\C# Codding\03. PracticeC#\CodeGasm\SuperCoolApplication\SuperCoolApplication\obj\Debug\SuperCoolApplication.pdb

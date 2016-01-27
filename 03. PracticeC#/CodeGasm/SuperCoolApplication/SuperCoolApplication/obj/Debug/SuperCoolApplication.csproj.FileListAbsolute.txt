@@ -1,0 +1,6 @@
+D:\C# Codding\CodeGasm\SuperCoolApplication\SuperCoolApplication\bin\Debug\SuperCoolApplication.exe.config
+D:\C# Codding\CodeGasm\SuperCoolApplication\SuperCoolApplication\obj\Debug\SuperCoolApplication.csprojResolveAssemblyReference.cache
+D:\C# Codding\CodeGasm\SuperCoolApplication\SuperCoolApplication\bin\Debug\SuperCoolApplication.exe
+D:\C# Codding\CodeGasm\SuperCoolApplication\SuperCoolApplication\bin\Debug\SuperCoolApplication.pdb
+D:\C# Codding\CodeGasm\SuperCoolApplication\SuperCoolApplication\obj\Debug\SuperCoolApplication.exe
+D:\C# Codding\CodeGasm\SuperCoolApplication\SuperCoolApplication\obj\Debug\SuperCoolApplication.pdb

@@ -1,0 +1,6 @@
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\01. TheBetterMusicProduce\bin\Debug\_01.TheBetterMusicProduce.exe.config
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\01. TheBetterMusicProduce\bin\Debug\_01.TheBetterMusicProduce.exe
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\01. TheBetterMusicProduce\bin\Debug\_01.TheBetterMusicProduce.pdb
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\01. TheBetterMusicProduce\obj\Debug\01. TheBetterMusicProduce.csprojResolveAssemblyReference.cache
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\01. TheBetterMusicProduce\obj\Debug\_01.TheBetterMusicProduce.exe
+C:\C# Codding\07. C# Practice\ExamProblems 18.10.2015\01. TheBetterMusicProduce\obj\Debug\_01.TheBetterMusicProduce.pdb

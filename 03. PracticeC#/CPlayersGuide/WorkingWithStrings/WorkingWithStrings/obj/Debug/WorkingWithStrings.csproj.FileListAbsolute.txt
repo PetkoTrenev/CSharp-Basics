@@ -1,0 +1,6 @@
+C:\C# Codding\03. PracticeC#\CPlayersGuide\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+C:\C# Codding\03. PracticeC#\CPlayersGuide\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+C:\C# Codding\03. PracticeC#\CPlayersGuide\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
+C:\C# Codding\03. PracticeC#\CPlayersGuide\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojResolveAssemblyReference.cache

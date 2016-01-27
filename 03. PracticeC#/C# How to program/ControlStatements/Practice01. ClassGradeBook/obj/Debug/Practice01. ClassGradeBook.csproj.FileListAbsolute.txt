@@ -1,0 +1,6 @@
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice01. ClassGradeBook\bin\Debug\Practice01.ClassGradeBook.exe.config
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice01. ClassGradeBook\bin\Debug\Practice01.ClassGradeBook.exe
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice01. ClassGradeBook\bin\Debug\Practice01.ClassGradeBook.pdb
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice01. ClassGradeBook\obj\Debug\Practice01. ClassGradeBook.csprojResolveAssemblyReference.cache
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice01. ClassGradeBook\obj\Debug\Practice01.ClassGradeBook.exe
+C:\C# Codding\03. PracticeC#\C# How to program\ControlStatements\Practice01. ClassGradeBook\obj\Debug\Practice01.ClassGradeBook.pdb

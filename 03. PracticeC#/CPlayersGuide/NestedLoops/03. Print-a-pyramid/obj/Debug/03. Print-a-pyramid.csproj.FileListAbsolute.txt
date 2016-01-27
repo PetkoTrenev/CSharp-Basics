@@ -1,0 +1,6 @@
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\03. Print-a-pyramid\bin\Debug\_03.Print_a_pyramid.exe.config
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\03. Print-a-pyramid\bin\Debug\_03.Print_a_pyramid.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\03. Print-a-pyramid\bin\Debug\_03.Print_a_pyramid.pdb
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\03. Print-a-pyramid\obj\Debug\_03.Print_a_pyramid.exe
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\03. Print-a-pyramid\obj\Debug\_03.Print_a_pyramid.pdb
+C:\C# Codding\03. PracticeC#\CPlayersGuide\NestedLoops\03. Print-a-pyramid\obj\Debug\03. Print-a-pyramid.csprojResolveAssemblyReference.cache

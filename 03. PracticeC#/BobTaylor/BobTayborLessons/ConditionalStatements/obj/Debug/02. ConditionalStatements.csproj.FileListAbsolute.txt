@@ -1,0 +1,9 @@
+D:\C# Codding\PracticeC#\CCource\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+D:\C# Codding\PracticeC#\CCource\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+D:\C# Codding\PracticeC#\CCource\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+D:\C# Codding\PracticeC#\CCource\ConditionalStatements\obj\Debug\02. ConditionalStatements.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\CCource\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+D:\C# Codding\PracticeC#\CCource\ConditionalStatements\obj\Debug\ConditionalStatements.pdb
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\C# Codding\03. PracticeC#\BobTaylor\CCource\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

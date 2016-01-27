@@ -1,0 +1,5 @@
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\02. WhileForever\bin\Debug\_02.WhileForever.exe.config
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\02. WhileForever\bin\Debug\_02.WhileForever.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\02. WhileForever\bin\Debug\_02.WhileForever.pdb
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\02. WhileForever\obj\Debug\_02.WhileForever.exe
+D:\C# Codding\03. PracticeC#\CPlayersGuide\Loops\01. WhileLoop\02. WhileForever\obj\Debug\_02.WhileForever.pdb

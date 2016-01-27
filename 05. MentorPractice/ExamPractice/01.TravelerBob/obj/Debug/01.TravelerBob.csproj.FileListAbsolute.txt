@@ -1,0 +1,5 @@
+C:\C# Codding\05. MentorPractice\ExamPractice\01.TravelerBob\bin\Debug\01.TravelerBob.exe.config
+C:\C# Codding\05. MentorPractice\ExamPractice\01.TravelerBob\bin\Debug\01.TravelerBob.exe
+C:\C# Codding\05. MentorPractice\ExamPractice\01.TravelerBob\bin\Debug\01.TravelerBob.pdb
+C:\C# Codding\05. MentorPractice\ExamPractice\01.TravelerBob\obj\Debug\01.TravelerBob.exe
+C:\C# Codding\05. MentorPractice\ExamPractice\01.TravelerBob\obj\Debug\01.TravelerBob.pdb

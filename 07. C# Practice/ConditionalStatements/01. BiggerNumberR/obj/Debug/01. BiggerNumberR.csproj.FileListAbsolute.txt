@@ -1,0 +1,6 @@
+C:\C# Codding\07. C# Practice\ConditionalStatements\01. BiggerNumberR\bin\Debug\_01.BiggerNumberR.exe.config
+C:\C# Codding\07. C# Practice\ConditionalStatements\01. BiggerNumberR\bin\Debug\_01.BiggerNumberR.exe
+C:\C# Codding\07. C# Practice\ConditionalStatements\01. BiggerNumberR\bin\Debug\_01.BiggerNumberR.pdb
+C:\C# Codding\07. C# Practice\ConditionalStatements\01. BiggerNumberR\obj\Debug\01. BiggerNumberR.csprojResolveAssemblyReference.cache
+C:\C# Codding\07. C# Practice\ConditionalStatements\01. BiggerNumberR\obj\Debug\_01.BiggerNumberR.exe
+C:\C# Codding\07. C# Practice\ConditionalStatements\01. BiggerNumberR\obj\Debug\_01.BiggerNumberR.pdb

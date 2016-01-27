@@ -1,0 +1,6 @@
+C:\C# Codding\07. C# Practice\ConditionalStatements\asd\bin\Debug\asd.exe.config
+C:\C# Codding\07. C# Practice\ConditionalStatements\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\C# Codding\07. C# Practice\ConditionalStatements\asd\bin\Debug\asd.exe
+C:\C# Codding\07. C# Practice\ConditionalStatements\asd\bin\Debug\asd.pdb
+C:\C# Codding\07. C# Practice\ConditionalStatements\asd\obj\Debug\asd.exe
+C:\C# Codding\07. C# Practice\ConditionalStatements\asd\obj\Debug\asd.pdb

@@ -1,0 +1,6 @@
+D:\C# Codding\PracticeC#\Decisions\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+D:\C# Codding\PracticeC#\Decisions\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+D:\C# Codding\PracticeC#\Decisions\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+D:\C# Codding\PracticeC#\Decisions\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\Decisions\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+D:\C# Codding\PracticeC#\Decisions\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb

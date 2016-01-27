@@ -1,0 +1,6 @@
+D:\C# Codding\PracticeC#\Decisions\RoundingProblems\bin\Debug\RoundingProblems.exe.config
+D:\C# Codding\PracticeC#\Decisions\RoundingProblems\bin\Debug\RoundingProblems.exe
+D:\C# Codding\PracticeC#\Decisions\RoundingProblems\bin\Debug\RoundingProblems.pdb
+D:\C# Codding\PracticeC#\Decisions\RoundingProblems\obj\Debug\RoundingProblems.csprojResolveAssemblyReference.cache
+D:\C# Codding\PracticeC#\Decisions\RoundingProblems\obj\Debug\RoundingProblems.exe
+D:\C# Codding\PracticeC#\Decisions\RoundingProblems\obj\Debug\RoundingProblems.pdb
