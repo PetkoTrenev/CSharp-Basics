@@ -1,0 +1,5 @@
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\NFactorial\bin\Debug\NFactorial.exe.config
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\NFactorial\bin\Debug\NFactorial.exe
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\NFactorial\bin\Debug\NFactorial.pdb
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\NFactorial\obj\Debug\NFactorial.exe
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\NFactorial\obj\Debug\NFactorial.pdb

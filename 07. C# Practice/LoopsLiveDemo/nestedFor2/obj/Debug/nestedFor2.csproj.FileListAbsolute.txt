@@ -1,0 +1,5 @@
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\nestedFor2\bin\Debug\nestedFor2.exe.config
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\nestedFor2\bin\Debug\nestedFor2.exe
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\nestedFor2\bin\Debug\nestedFor2.pdb
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\nestedFor2\obj\Debug\nestedFor2.exe
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\nestedFor2\obj\Debug\nestedFor2.pdb

@@ -1,0 +1,5 @@
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\SentinelLoop\bin\Debug\SentinelLoop.exe.config
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\SentinelLoop\bin\Debug\SentinelLoop.exe
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\SentinelLoop\bin\Debug\SentinelLoop.pdb
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\SentinelLoop\obj\Debug\SentinelLoop.exe
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\SentinelLoop\obj\Debug\SentinelLoop.pdb

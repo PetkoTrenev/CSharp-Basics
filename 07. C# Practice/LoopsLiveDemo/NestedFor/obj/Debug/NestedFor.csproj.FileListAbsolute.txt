@@ -1,0 +1,1 @@
+C:\C# Codding\07. C# Practice\LoopsLiveDemo\NestedFor\bin\Debug\NestedFor.exe.config
