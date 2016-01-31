@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ArrayDeclare", "01. ArrayDeclare\01. ArrayDeclare.csproj", "{0C000AC2-2328-48B2-80AF-927F3CE74332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverseArray", "reverseArray\reverseArray.csproj", "{C14961BF-8018-4877-9E6B-6BDAAC344890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingArraysFromConsole", "ReadingArraysFromConsole\ReadingArraysFromConsole.csproj", "{FD301C29-6C47-4ED8-A077-356CCD05341E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simetry", "Simetry\Simetry.csproj", "{83B1B102-E80A-4850-8DCA-25BA4EA17104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C000AC2-2328-48B2-80AF-927F3CE74332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C000AC2-2328-48B2-80AF-927F3CE74332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C000AC2-2328-48B2-80AF-927F3CE74332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C000AC2-2328-48B2-80AF-927F3CE74332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14961BF-8018-4877-9E6B-6BDAAC344890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14961BF-8018-4877-9E6B-6BDAAC344890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14961BF-8018-4877-9E6B-6BDAAC344890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14961BF-8018-4877-9E6B-6BDAAC344890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD301C29-6C47-4ED8-A077-356CCD05341E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD301C29-6C47-4ED8-A077-356CCD05341E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD301C29-6C47-4ED8-A077-356CCD05341E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD301C29-6C47-4ED8-A077-356CCD05341E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B1B102-E80A-4850-8DCA-25BA4EA17104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B1B102-E80A-4850-8DCA-25BA4EA17104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B1B102-E80A-4850-8DCA-25BA4EA17104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B1B102-E80A-4850-8DCA-25BA4EA17104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
