@@ -21,7 +21,7 @@ namespace AceOfDiamonds
                 Console.WriteLine("*{0}{1}{0}*",new string ('-',(n/2)-i),
                 new string('@',((i*2+1)-2)));                 
             }
-            for (int i = 1; i < n/2; i++)
+            for (int i = 1; i < n/2-1; i++)
             {
                 Console.WriteLine("*{0}{1}{0}*",new string('-',i),
                     new string('@',(n / 2 - i)*2 -1));
